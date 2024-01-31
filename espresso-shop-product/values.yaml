@@ -89,7 +89,7 @@ label:
   version: v1
 
 probe:
-  enable: false
+  enable: true
 
 postgres_env:
   key1: POSTGRES_USER

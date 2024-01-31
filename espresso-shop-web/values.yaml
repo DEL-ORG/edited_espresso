@@ -96,7 +96,7 @@ tolerations: []
 affinity: {}
 
 probe:
-  enabled: false
+  enabled: true
 
 strategy:
   type: RollingUpdate

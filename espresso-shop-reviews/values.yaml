@@ -97,7 +97,7 @@ tolerations: []
 affinity: {}
 
 probe:
-  enable: false
+  enable: true
 
 postgres_env:
   key1: POSTGRES_USER
